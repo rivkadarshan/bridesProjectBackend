@@ -1,0 +1,51 @@
+D:\web_api\Bll\bin\Debug\net7.0\Bll.deps.json
+D:\web_api\Bll\bin\Debug\net7.0\Bll.dll
+D:\web_api\Bll\bin\Debug\net7.0\Bll.pdb
+D:\web_api\Bll\bin\Debug\net7.0\Dal.dll
+D:\web_api\Bll\bin\Debug\net7.0\Dto.dll
+D:\web_api\Bll\bin\Debug\net7.0\Dal.pdb
+D:\web_api\Bll\bin\Debug\net7.0\Dto.pdb
+D:\web_api\Bll\obj\Debug\net7.0\Bll.csproj.AssemblyReference.cache
+D:\web_api\Bll\obj\Debug\net7.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\web_api\Bll\obj\Debug\net7.0\Bll.AssemblyInfoInputs.cache
+D:\web_api\Bll\obj\Debug\net7.0\Bll.AssemblyInfo.cs
+D:\web_api\Bll\obj\Debug\net7.0\Bll.csproj.CoreCompileInputs.cache
+D:\web_api\Bll\obj\Debug\net7.0\Bll.csproj.CopyComplete
+D:\web_api\Bll\obj\Debug\net7.0\Bll.dll
+D:\web_api\Bll\obj\Debug\net7.0\refint\Bll.dll
+D:\web_api\Bll\obj\Debug\net7.0\Bll.pdb
+D:\web_api\Bll\obj\Debug\net7.0\ref\Bll.dll
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Bll\bin\Debug\net7.0\Bll.deps.json
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Bll\bin\Debug\net7.0\Bll.dll
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Bll\bin\Debug\net7.0\Bll.pdb
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Bll\bin\Debug\net7.0\Dal.dll
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Bll\bin\Debug\net7.0\Dto.dll
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Bll\bin\Debug\net7.0\Dal.pdb
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Bll\bin\Debug\net7.0\Dto.pdb
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Bll\obj\Debug\net7.0\Bll.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Bll\obj\Debug\net7.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Bll\obj\Debug\net7.0\Bll.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Bll\obj\Debug\net7.0\Bll.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Bll\obj\Debug\net7.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Bll\obj\Debug\net7.0\Bll.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Bll\obj\Debug\net7.0\Bll.dll
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Bll\obj\Debug\net7.0\refint\Bll.dll
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Bll\obj\Debug\net7.0\Bll.pdb
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Bll\obj\Debug\net7.0\ref\Bll.dll
+C:\Users\user1\Desktop\BridesProject\web_api\Bll\bin\Debug\net7.0\Bll.deps.json
+C:\Users\user1\Desktop\BridesProject\web_api\Bll\bin\Debug\net7.0\Bll.dll
+C:\Users\user1\Desktop\BridesProject\web_api\Bll\bin\Debug\net7.0\Bll.pdb
+C:\Users\user1\Desktop\BridesProject\web_api\Bll\bin\Debug\net7.0\Dal.dll
+C:\Users\user1\Desktop\BridesProject\web_api\Bll\bin\Debug\net7.0\Dto.dll
+C:\Users\user1\Desktop\BridesProject\web_api\Bll\bin\Debug\net7.0\Dal.pdb
+C:\Users\user1\Desktop\BridesProject\web_api\Bll\bin\Debug\net7.0\Dto.pdb
+C:\Users\user1\Desktop\BridesProject\web_api\Bll\obj\Debug\net7.0\Bll.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\BridesProject\web_api\Bll\obj\Debug\net7.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\BridesProject\web_api\Bll\obj\Debug\net7.0\Bll.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\BridesProject\web_api\Bll\obj\Debug\net7.0\Bll.AssemblyInfo.cs
+C:\Users\user1\Desktop\BridesProject\web_api\Bll\obj\Debug\net7.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\BridesProject\web_api\Bll\obj\Debug\net7.0\Bll.csproj.CopyComplete
+C:\Users\user1\Desktop\BridesProject\web_api\Bll\obj\Debug\net7.0\Bll.dll
+C:\Users\user1\Desktop\BridesProject\web_api\Bll\obj\Debug\net7.0\refint\Bll.dll
+C:\Users\user1\Desktop\BridesProject\web_api\Bll\obj\Debug\net7.0\Bll.pdb
+C:\Users\user1\Desktop\BridesProject\web_api\Bll\obj\Debug\net7.0\ref\Bll.dll

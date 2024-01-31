@@ -1,0 +1,33 @@
+D:\web_api\Dto\bin\Debug\net7.0\Dto.deps.json
+D:\web_api\Dto\bin\Debug\net7.0\Dto.dll
+D:\web_api\Dto\bin\Debug\net7.0\Dto.pdb
+D:\web_api\Dto\obj\Debug\net7.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\web_api\Dto\obj\Debug\net7.0\Dto.AssemblyInfoInputs.cache
+D:\web_api\Dto\obj\Debug\net7.0\Dto.AssemblyInfo.cs
+D:\web_api\Dto\obj\Debug\net7.0\Dto.csproj.CoreCompileInputs.cache
+D:\web_api\Dto\obj\Debug\net7.0\Dto.dll
+D:\web_api\Dto\obj\Debug\net7.0\refint\Dto.dll
+D:\web_api\Dto\obj\Debug\net7.0\Dto.pdb
+D:\web_api\Dto\obj\Debug\net7.0\ref\Dto.dll
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Dto\bin\Debug\net7.0\Dto.deps.json
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Dto\bin\Debug\net7.0\Dto.dll
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Dto\bin\Debug\net7.0\Dto.pdb
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Dto\obj\Debug\net7.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Dto\obj\Debug\net7.0\Dto.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Dto\obj\Debug\net7.0\Dto.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Dto\obj\Debug\net7.0\Dto.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Dto\obj\Debug\net7.0\Dto.dll
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Dto\obj\Debug\net7.0\refint\Dto.dll
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Dto\obj\Debug\net7.0\Dto.pdb
+C:\Users\user1\Desktop\פרויקט כלות\web_api\Dto\obj\Debug\net7.0\ref\Dto.dll
+C:\Users\user1\Desktop\BridesProject\web_api\Dto\bin\Debug\net7.0\Dto.deps.json
+C:\Users\user1\Desktop\BridesProject\web_api\Dto\bin\Debug\net7.0\Dto.dll
+C:\Users\user1\Desktop\BridesProject\web_api\Dto\bin\Debug\net7.0\Dto.pdb
+C:\Users\user1\Desktop\BridesProject\web_api\Dto\obj\Debug\net7.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\BridesProject\web_api\Dto\obj\Debug\net7.0\Dto.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\BridesProject\web_api\Dto\obj\Debug\net7.0\Dto.AssemblyInfo.cs
+C:\Users\user1\Desktop\BridesProject\web_api\Dto\obj\Debug\net7.0\Dto.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\BridesProject\web_api\Dto\obj\Debug\net7.0\Dto.dll
+C:\Users\user1\Desktop\BridesProject\web_api\Dto\obj\Debug\net7.0\refint\Dto.dll
+C:\Users\user1\Desktop\BridesProject\web_api\Dto\obj\Debug\net7.0\Dto.pdb
+C:\Users\user1\Desktop\BridesProject\web_api\Dto\obj\Debug\net7.0\ref\Dto.dll
