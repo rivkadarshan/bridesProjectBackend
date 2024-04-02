@@ -47,5 +47,10 @@ namespace Bll.classes
         {
             return dal.DeleteBrideJewelry(brideJewelryId);
         }
+
+        public int UpdateListBrideJewelry(List<BridejewelryDto> brideJewrlryList)
+        {
+            return dal.UpdateListBrideJewelry(brideJewrlryList);
+        }
     }
 }
