@@ -30,6 +30,10 @@ builder.Services.AddScoped<IEmployeeDal, EmployeeFunc>();
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowSpecificOrigin",
+       builder => builder.WithOrigins("https://brides-project.vercel.app/")
+                         .AllowAnyHeader()
+                         .AllowAnyMethod());
+    options.AddPolicy("AllowSpecificOrigin",
         builder => builder.WithOrigins("http://localhost:4200")
                           .AllowAnyHeader()
                           .AllowAnyMethod());
