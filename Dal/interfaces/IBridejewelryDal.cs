@@ -15,5 +15,6 @@ namespace Dal.interfaces
         public int AddBrideJewelry(BridejewelryDto newBridejewelry);
         public int UpdateBrideJewelry(int jewelryId, int brideId);
         public int DeleteBrideJewelry(int brideJewelryId);
+        public int UpdateListBrideJewelry(List<BridejewelryDto> brideJewrlryList);
     }
 }

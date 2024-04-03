@@ -35,12 +35,17 @@ namespace Dal.classes
                 return null;
             }
         }
+
+        //Adds a bride and returns the number of the added bride
         public int AddBride(BrideDto newBride)
         {
-            ProjectBridesContext db = new ProjectBridesContext();
-            db.BrideTbls.Add(BrideConvert.ToDal(newBride));
-            int x =db.SaveChanges();
-            return x;
+            using (ProjectBridesContext db = new ProjectBridesContext())
+            {
+                db.BrideTbls.Add(BrideConvert.ToDal(newBride));
+                db.SaveChanges();
+
+                return db.BrideTbls.OrderByDescending(b => b.Brideid).FirstOrDefault()?.Brideid ?? -1;
+            }
         }
 
         public int DeleteBride(int _id)

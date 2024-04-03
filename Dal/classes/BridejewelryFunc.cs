@@ -83,5 +83,29 @@ namespace Dal.classes
                 throw new Exception(e.Message);
             }
         }
+
+        public int UpdateListBrideJewelry(List<BridejewelryDto> brideJewelryList)
+        {
+            try
+            {
+                foreach (var brideJewelryDto in brideJewelryList)
+                {
+                    var brideJewelry = db.BridejewelryTbls.FirstOrDefault(b => b.Bridejewelryid == brideJewelryDto.Bridejewelryid);
+                    if (brideJewelry == null)
+                    {
+                        continue;
+                    }
+                    brideJewelry.Ischoose = brideJewelryDto.Ischoose; // Update other properties as needed
+                }
+                db.SaveChanges();
+
+                return 1; // Indicate success
+            }
+            catch (Exception ex)
+            {
+                throw new Exception($"Error updating bride jewelry list: {ex.Message}");
+            }
+        }
+
     }
 }

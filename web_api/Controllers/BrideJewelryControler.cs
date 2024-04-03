@@ -60,5 +60,19 @@ namespace web_api.Controllers
                 return NotFound();
             return Ok();
         }
+        [HttpPut("UpdateListBrideJewelry")]
+        public ActionResult UpdateListBrideJewelry(List<BridejewelryDto> updatedBrideJewelryList)
+        {
+            try
+            {
+                bll.UpdateListBrideJewelry(updatedBrideJewelryList);
+                return Ok("Bride jewelry list updated successfully");
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"An error occurred: {ex.Message}");
+            }
+        }
+
     }
 }
