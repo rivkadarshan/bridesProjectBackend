@@ -20,6 +20,12 @@ builder.Services.AddScoped<IBrideDal, BrideFunc>();
 builder.Services.AddScoped<IBrideBll, BrideBll>();
 builder.Services.AddScoped<IBridejewelryDal, BridejewelryFunc>();
 builder.Services.AddScoped<IBridejewelryBll, BridejewelryBll>();
+builder.Services.AddScoped<ICorrectionBll, CorrectionBll>();
+builder.Services.AddScoped<ICorrectionDal, CorrectionFunc>();
+builder.Services.AddScoped<ICustomerBll, CustomerBll>();
+builder.Services.AddScoped<ICustomerDal, CustomerFunc>();
+builder.Services.AddScoped<IEmployeeBll, EmployeeBll>();
+builder.Services.AddScoped<IEmployeeDal, EmployeeFunc>();
 
 builder.Services.AddCors(options =>
 {
