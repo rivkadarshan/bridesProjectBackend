@@ -31,3 +31,4 @@ C:\Users\user1\Desktop\BridesProject\web_api\Dto\obj\Debug\net7.0\Dto.dll
 C:\Users\user1\Desktop\BridesProject\web_api\Dto\obj\Debug\net7.0\refint\Dto.dll
 C:\Users\user1\Desktop\BridesProject\web_api\Dto\obj\Debug\net7.0\Dto.pdb
 C:\Users\user1\Desktop\BridesProject\web_api\Dto\obj\Debug\net7.0\ref\Dto.dll
+C:\Users\user1\Desktop\BridesProject\web_api\Dto\obj\Debug\net7.0\Dto.sourcelink.json

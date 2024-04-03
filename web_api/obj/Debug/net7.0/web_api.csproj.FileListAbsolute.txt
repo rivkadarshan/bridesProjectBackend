@@ -189,3 +189,4 @@ C:\Users\user1\Desktop\BridesProject\web_api\web_api\obj\Debug\net7.0\refint\web
 C:\Users\user1\Desktop\BridesProject\web_api\web_api\obj\Debug\net7.0\web_api.pdb
 C:\Users\user1\Desktop\BridesProject\web_api\web_api\obj\Debug\net7.0\web_api.genruntimeconfig.cache
 C:\Users\user1\Desktop\BridesProject\web_api\web_api\obj\Debug\net7.0\ref\web_api.dll
+C:\Users\user1\Desktop\BridesProject\web_api\web_api\obj\Debug\net7.0\web_api.sourcelink.json

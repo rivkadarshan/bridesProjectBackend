@@ -49,3 +49,4 @@ C:\Users\user1\Desktop\BridesProject\web_api\Bll\obj\Debug\net7.0\Bll.dll
 C:\Users\user1\Desktop\BridesProject\web_api\Bll\obj\Debug\net7.0\refint\Bll.dll
 C:\Users\user1\Desktop\BridesProject\web_api\Bll\obj\Debug\net7.0\Bll.pdb
 C:\Users\user1\Desktop\BridesProject\web_api\Bll\obj\Debug\net7.0\ref\Bll.dll
+C:\Users\user1\Desktop\BridesProject\web_api\Bll\obj\Debug\net7.0\Bll.sourcelink.json
